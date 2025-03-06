@@ -1,6 +1,6 @@
 # Bibin Joseph
 
-Minneapolis, MN, 55401  [bibinjoseph.ph@gmail.com](mailto:bibinjoseph.ph@gmail.com) • [LinkedIn](https://www.linkedin.com/in/bibin-joseph-umn/) • [GitHub](https://josep603.github.io)
+Minneapolis, MN, 55401  [bibinjoseph.ph@gmail.com](mailto:bibinjoseph.ph@gmail.com) • [LinkedIn](https://www.linkedin.com/in/bibin-joseph-umn/) • [GitHub](https://github.com/josep603)
 
 ---
 
