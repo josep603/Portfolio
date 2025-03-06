@@ -4,13 +4,3 @@ description: Data scientist | Biostatistician
 show_downloads: false
 theme: jekyll-theme-minimal
 
-# Navigation links for clickable tabs
-nav:
-  - title: Home
-    url: /
-  - title: About
-    url: /about.md/
-  - title: Projects
-    url: /Projects.md/
-  - title: Contact
-    url: /contact.md/
