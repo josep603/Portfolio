@@ -12,17 +12,23 @@ Data Scientist / Biostatistician with expertise in statistical modeling, causal 
 
 ## MASTERS PROJECTS
 
-- **Cholesterol-Lowering Medications and Type-II Diabetes Risk**  
-  Conducted a study using propensity score matching and Cox modeling with RWE data to evaluate the impact of cholesterol-lowering medications on type-II diabetes risk in non-diabetic individuals (analyzing data from over 200,000 patients).
-
-- **Unraveling the Roots of Diabetes**  
+- **[Unraveling the Roots of Diabetes](https://github.com/josep603/AddHealth_Diabetes)**  
   Performed a causal inference analysis on lifestyle and socioeconomic factors influencing the onset of Type 2 Diabetes in adults using the Add Health Study.
 
-- **Genetic Markers and Mortality**  
+- **[Genetic Markers and Mortality](https://github.umn.edu/josep603/STAT_GEN)**  
   Analyzed the LLFS dataset using machine learning and NLP to identify genetic markers associated with mortality, adjusting for age and metabolic factors to assess predictive power for future all-cause mortality.
 
-- **Stroke Prediction Models**  
-  Evaluated stroke prediction models using logistic regression and decision trees, comparing the performance of varying covariates. Highlighted logistic regression's superior risk differentiation alongside decision trees' interpretability.
+- **[Enhancing Predictive Accuracy in Flu Vaccination](https://www.kaggle.com/code/bibinjosephumn/enhancing-predictive-accuracy-in-flu-vaccination)**  
+  This project is an application of ensemble methods to enhance predictions. A key aspect of the analysis is examining variable importance, providing insights into which features significantly influence the prediction of flu vaccination status across different models. The analysis presents a consolidated table showcasing the AUCs of all models, facilitating a direct comparison to discern the most effective predictive model.
+
+- **[US Cancer Analysis 79-88](https://public.tableau.com/app/profile/bibin.joseph/viz/USCancerAnalysis79-88/FinalDashboard)**  
+  This interactive Tableau dashboard provides insights into cancer mortality data across the United States from 1979 to 1988. It allows exploration of trends and identification of potential disparities in cancer deaths by State, Sex, and Cancer Type.
+
+- **[Comparative Analysis of Stroke Prediction Models](https://www.kaggle.com/code/bibinjosephumn/comparative-analysis-of-stroke-prediction-models?kernelSessionId=164954820)**  
+  This analysis explores predicting stroke likelihood using logistic regression and decision trees, comparing models with varying covariates. Model evaluations compare predicted probabilities against actual stroke occurrences, highlighting the superior performance of logistic regression in distinguishing stroke risks, while the decision tree, despite its interpretability, shows less distinction between risk groups.
+
+- **Cholesterol-Lowering Medications and Type-II Diabetes Risk**  
+  Conducted a study using propensity score matching and Cox modeling with RWE data to evaluate the impact of cholesterol-lowering medications on type-II diabetes risk in non-diabetic individuals (analyzing data from over 200,000 patients).
 
 ---
 
