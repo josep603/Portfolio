@@ -3,3 +3,16 @@ logo: docs/assets/headshot_circle.png
 description: Data scientist | Biostatistician
 show_downloads: false
 theme: jekyll-theme-minimal
+url: "https://josep603.github.io/Portfolio/" 
+baseurl: "" #if your site is in a subfolder, add it here.
+navigation:
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: CV
+    url: /cv/
+social:
+  github: josep603
+  linkedin: bibin-joseph-umn
+favicon: docs/assets/favicon.ico
