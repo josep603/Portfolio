@@ -9,8 +9,8 @@ nav:
   - title: Home
     url: /
   - title: About
-    url: /about/
+    url: /about.md/
   - title: Projects
-    url: /projects/
+    url: /Projects.md/
   - title: Contact
-    url: /contact/
+    url: /contact.md/
