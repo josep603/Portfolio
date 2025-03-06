@@ -21,7 +21,7 @@ Data Scientist / Biostatistician with expertise in statistical modeling, causal 
 - **[Enhancing Predictive Accuracy in Flu Vaccination](https://www.kaggle.com/code/bibinjosephumn/enhancing-predictive-accuracy-in-flu-vaccination)**  
   This project is an application of ensemble methods to enhance predictions. A key aspect of the analysis is examining variable importance, providing insights into which features significantly influence the prediction of flu vaccination status across different models. The analysis presents a consolidated table showcasing the AUCs of all models, facilitating a direct comparison to discern the most effective predictive model.
 
-- **[US Cancer Analysis 79-88](https://public.tableau.com/app/profile/bibin.joseph/viz/USCancerAnalysis79-88/FinalDashboard)**  
+- **[US Cancer Analysis Tableau Dashboard](https://public.tableau.com/app/profile/bibin.joseph/viz/USCancerAnalysis79-88/FinalDashboard)**  
   This interactive Tableau dashboard provides insights into cancer mortality data across the United States from 1979 to 1988. It allows exploration of trends and identification of potential disparities in cancer deaths by State, Sex, and Cancer Type.
 
 - **[Comparative Analysis of Stroke Prediction Models](https://www.kaggle.com/code/bibinjosephumn/comparative-analysis-of-stroke-prediction-models?kernelSessionId=164954820)**  
