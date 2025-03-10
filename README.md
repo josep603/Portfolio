@@ -27,7 +27,7 @@ Data Scientist / Biostatistician with expertise in statistical modeling, causal 
 - **[Comparative Analysis of Stroke Prediction Models](https://www.kaggle.com/code/bibinjosephumn/comparative-analysis-of-stroke-prediction-models?kernelSessionId=164954820)**  
   This analysis explores predicting stroke likelihood using logistic regression and decision trees, comparing models with varying covariates. Model evaluations compare predicted probabilities against actual stroke occurrences, highlighting the superior performance of logistic regression in distinguishing stroke risks, while the decision tree, despite its interpretability, shows less distinction between risk groups.
 
-- **Cholesterol-Lowering Medications and Type-II Diabetes Risk**  
+- **[Cholesterol-Lowering Medications and Type-II Diabetes Risk](https://github.com/josep603/RWD_Diabetes_Study)**  
   Conducted a study using propensity score matching and Cox modeling with RWE data to evaluate the impact of cholesterol-lowering medications on type-II diabetes risk in non-diabetic individuals (analyzing data from over 200,000 patients).
 
 ---
